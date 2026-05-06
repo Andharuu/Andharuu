@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello, I'm Andharu 👋
 
-I am a Software Engineer and Solo Game Developer currently pursuing my studies in Informatics Engineering at the Electronic Engineering Polytechnic Institute of Surabaya (PENS) - PSDKU Lamongan. To me, programming is much more than typing syntax; it is the technical catalyst where art, human psychology, and computational logic converge.
+I am a Software Engineer and Solo Game Developer currently pursuing my studies in Informatics Engineering at the Electronic Engineering Polytechnic Institute of Surabaya (PENS). To me, programming is much more than typing syntax; it is the technical catalyst where art, human psychology, and computational logic converge.
 
 My journey spans across various disciplines, from crafting responsive web interfaces (HTML, CSS, JavaScript) and exploring the mathematical foundations of Artificial Intelligence (Python), to designing complex system architectures and immersive game worlds using Godot and Unreal Engine 5 (C#, C++).
 
