@@ -1,9 +1,67 @@
-## Hello, I'm Andharu 👋
+<div align="center">
+  
+# Hi 👋 I'm Andharu
 
-I am a Software Engineer and Solo Game Developer currently pursuing my studies in Informatics Engineering at the Electronic Engineering Polytechnic Institute of Surabaya (PENS). To me, programming is much more than typing syntax; it is the technical catalyst where art, human psychology, and computational logic converge.
+**Backend & Mobile Engineer • Open Source Enthusiast**
 
-My journey spans across various disciplines, from crafting responsive web interfaces (HTML, CSS, JavaScript) and exploring the mathematical foundations of Artificial Intelligence (Python), to designing complex system architectures and immersive game worlds using Godot and Unreal Engine 5 (C#, C++).
+[Open Source](https://github.com/Andharuu)
 
-My approach is deeply rooted in empathy and aesthetics. I leverage psychological insights to design intuitive user experiences, combined with a photorealistic visual approach to create impactful digital environments. This philosophy has driven the creation of projects like the wellness app "An Nur Mind" and the "Rinoria Game Store" platform, and it also led me to win 2nd Place in a National UI/UX Innovation Competition at Telkom University.
+</div>
 
-I believe that great work comes from constant iteration and reflection. For this reason, I created RinoriaLab on Instagram. RinoriaLab serves as my digital laboratory and visual journal—a dedicated space where I evaluate, break down, and document the progression of every project I build. Through this platform, I share not just the final product, but the intricate behind-the-scenes process of crafting applications and games that are both functional and deeply meaningful.
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/andharu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/andharu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:email-anda@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,nodejs,express,postgres,mongodb,firebase,docker,git,github" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,postman,figma,tensorflow,vercel,linux" />
+  </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andharuu&theme=tokyonight&hide_border=true&border_radius=10" alt="Andharuu's Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&theme=tokyo-night&hide_border=true&area=true&border_radius=10" alt="Andharuu's Activity Graph" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
