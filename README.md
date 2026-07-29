@@ -1,67 +1,75 @@
 <div align="center">
-  
-# Hi 👋 I'm Andharu
-
-**Backend & Mobile Engineer • Open Source Enthusiast**
-
-[Open Source](https://github.com/Andharuu)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Welcome%20to%20Andharu's%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=%3C/%3E&descSize=20&descColor=ffffff" width="100%" alt="Welcome Banner" />
 </div>
 
----
+<br>
 
-### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/andharu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/andharu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://github.com/Andharuu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:email-anda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/andharu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
----
+<br>
 
-### 💻 Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,nodejs,express,postgres,mongodb,firebase,docker,git,github" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,postman,figma,tensorflow,vercel,linux" />
-  </a>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white" />
-</p>
+<h3 align="center">👤 About me</h3>
 
----
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="70%" style="border: none; padding-right: 20px;">
+      Hello There! I'm <b>Andharu</b>, a passionate Software Engineer. I enjoy learning new technologies and problem solving. Currently, I'm working on some exciting projects to put in practice my knowledge about Backend Development, Mobile (Android), and Machine Learning.
+      <br><br>
+      🎓 <b>Studying Computer Science</b><br>
+      💻 <b>Backend & Mobile Developer</b><br>
+      🏆 <b>Competitor in GEMASTIK XIX (2026)</b><br>
+      🌱 <i>Currently diving deep into Machine Learning & AI</i>
+    </td>
+    <td width="30%" align="center" style="border: none;">
+      <!-- GIF Astronot / Coding -->
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZGw3YmszNjN6NXdmaTRzYnVpeXB4NXdyNWRxYTVwNnl5bDJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Astronaut" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-### 📊 GitHub Analytics
+<br>
+
+<h3 align="center">⚙️ Technologies</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andharuu&theme=tokyonight&hide_border=true&border_radius=10" alt="Andharuu's Streak" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white" />
 </p>
 
----
+<br>
 
-### 📈 Contribution Graph
+<h3 align="center">📈 Statistics</h3>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&theme=tokyo-night&hide_border=true&area=true&border_radius=10" alt="Andharuu's Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andharuu&theme=dark&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak" />
 </p>
 
----
+<br>
 
-### ✍️ Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&theme=github-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph" />
 </p>
