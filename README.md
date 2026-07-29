@@ -64,12 +64,12 @@
 <h3 align="center">📈 Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andharuu&theme=dark&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Andharuu&theme=dark&hide_border=true&background=0d1117" height="170" alt="GitHub Streak" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&theme=github-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true&title_color=ffffff&axes_color=ffffff" width="100%" alt="Contribution Graph" />
 </p>
