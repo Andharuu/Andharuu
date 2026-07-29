@@ -1,76 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Welcome%20to%20Andharu's%20GitHub&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=%3C/%3E&descSize=20&descColor=ffffff" width="100%" alt="Welcome Banner" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Welcome%20to%20Andharu's%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20•%20Backend%20•%20Android%20•%20Machine%20Learning&descAlignY=65&descSize=18"/>
+
+<p>
+<a href="https://linkedin.com/in/andharu">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Andharuu">
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:email-anda@gmail.com">
+<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://your-portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/>
+</a>
+</p>
+
+</div>
+
+---
+
+# About Me
+
+<table>
+<tr>
+
+<td width="68%">
+
+Hi!
+
+I'm **Andharu**, a Software Engineering student from Indonesia.
+
+I enjoy designing software that solves real-world problems through clean architecture, scalable backend systems, mobile applications, and machine learning.
+
+Currently focusing on:
+
+- Backend Development
+- Android Development
+- Machine Learning
+- Geographic Information Systems (GIS)
+
+### Current Goal
+
+Building impactful software for education, healthcare, and rural digital transformation.
+
+</td>
+
+<td align="center">
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZGw3YmszNjN6NXdmaTRzYnVpeXB4NXdyNWRxYTVwNnl5bDJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,fastapi,nodejs,docker,postgres,mongodb,git,tensorflow,androidstudio&theme=dark"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **PANDU** | Offline-first rural information system for education, emergency response, agriculture, and village services. |
+| **DARSI** | Digital assistant platform for hospital information systems. |
+| **Machine Learning** | AI models for intelligent decision support and data analysis. |
+| **GIS Projects** | Geographic Information Systems and spatial analysis applications. |
+
+---
+
+# GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andharuu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+
 </div>
 
 <br>
 
-<p align="center">
-  <a href="https://linkedin.com/in/andharu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Andharuu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:email-anda@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://instagram.com/andharu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+<img width="98%" src="https://streak-stats.demolab.com?user=Andharuu&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+
+</div>
+
+---
+
+# Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Andharuu&style=flat-square&color=000000"/>
+
+</div>
 
 <br>
 
-<h3 align="center">👤 About me</h3>
+<div align="center">
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="70%" style="border: none; padding-right: 20px;">
-      Hello There! I'm <b>Andharu</b>, a passionate Software Engineer. I enjoy learning new technologies and problem solving. Currently, I'm working on some exciting projects to put in practice my knowledge about Backend Development, Mobile (Android), and Machine Learning.
-      <br><br>
-      🎓 <b>Studying Computer Science</b><br>
-      💻 <b>Backend & Mobile Developer</b><br>
-      🏆 <b>Competitor in GEMASTIK XIX (2026)</b><br>
-      🌱 <i>Currently diving deep into Machine Learning & AI</i>
-    </td>
-    <td width="30%" align="center" style="border: none;">
-      <!-- GIF Astronot / Coding -->
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZGw3YmszNjN6NXdmaTRzYnVpeXB4NXdyNWRxYTVwNnl5bDJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="160" alt="Astronaut" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
 
-<br>
-
-<h3 align="center">⚙️ Technologies</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostGIS-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=white" />
-</p>
-
-<br>
-
-<h3 align="center">📈 Statistics</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andharuu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Andharuu&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&hide_border=true&title_color=ffffff&axes_color=ffffff" width="100%" alt="Contribution Graph" />
-</p>
+</div>
