@@ -64,8 +64,8 @@
 <h3 align="center">📈 Statistics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Andharuu&theme=dark&hide_border=true&background=0d1117" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Andharuu&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </p>
 
 <br>
