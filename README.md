@@ -1,62 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Welcome%20to%20Andharu's%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20•%20Backend%20•%20Android%20•%20Machine%20Learning&descAlignY=65&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0d1117,100:000000&text=Welcome%20to%20Andharu's%20GitHub&fontColor=ffffff&fontSize=38&fontAlignY=42&desc=Software%20Engineer%20•%20Backend%20•%20Android%20•%20Machine%20Learning&descAlignY=60&descColor=d9d9d9"/>
 
-<p>
-<a href="https://linkedin.com/in/andharu">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://github.com/Andharuu">
-<img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white">
 </a>
 
-<a href="mailto:email-anda@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="https://linkedin.com/in/andharu">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://your-portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white"/>
+<a href="mailto:email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=flat&logo=gmail&logoColor=white">
 </a>
-</p>
 
 </div>
 
 ---
 
-# About Me
+# About
 
 <table>
+
 <tr>
 
-<td width="68%">
+<td width="65%">
 
-Hi!
+Hi.
 
 I'm **Andharu**, a Software Engineering student from Indonesia.
 
-I enjoy designing software that solves real-world problems through clean architecture, scalable backend systems, mobile applications, and machine learning.
+I enjoy building software that creates real impact through **Backend Development**, **Android Engineering**, **Machine Learning**, and **Geographic Information Systems**.
 
-Currently focusing on:
+Currently interested in designing scalable systems with clean architecture and solving real-world problems.
 
-- Backend Development
+<br>
+
+**Current Focus**
+
+- Backend Engineering
 - Android Development
 - Machine Learning
-- Geographic Information Systems (GIS)
-
-### Current Goal
-
-Building impactful software for education, healthcare, and rural digital transformation.
+- GIS
+- Open Source
 
 </td>
 
-<td align="center">
+<td width="35%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZGw3YmszNjN6NXdmaTRzYnVpeXB4NXdyNWRxYTVwNnl5bDJkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="150"/>
+<img width="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -65,7 +64,7 @@ Building impactful software for education, healthcare, and rural digital transfo
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,kotlin,fastapi,nodejs,docker,postgres,mongodb,git,tensorflow,androidstudio&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,kotlin,fastapi,nodejs,postgres,mongodb,docker,git,tensorflow,androidstudio,linux&theme=dark"/>
 
 </div>
 
@@ -73,22 +72,37 @@ Building impactful software for education, healthcare, and rural digital transfo
 
 # Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| **PANDU** | Offline-first rural information system for education, emergency response, agriculture, and village services. |
-| **DARSI** | Digital assistant platform for hospital information systems. |
-| **Machine Learning** | AI models for intelligent decision support and data analysis. |
-| **GIS Projects** | Geographic Information Systems and spatial analysis applications. |
+### PANDU
+
+Offline-first information system for education, agriculture, emergency response, and rural digital transformation.
+
+<br>
+
+### DARSI
+
+Digital Assistant platform for Hospital Information Systems.
+
+<br>
+
+### Machine Learning
+
+Computer Vision, Deep Learning, and Intelligent Decision Support Systems.
+
+<br>
+
+### GIS Projects
+
+Spatial Analysis, Mapping, and Geographic Information Systems.
 
 ---
 
-# GitHub Statistics
+# GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andharuu&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andharuu&layout=compact&theme=github_dark&hide_border=true&bg_color=000000"/>
 
 </div>
 
@@ -96,7 +110,7 @@ Building impactful software for education, healthcare, and rural digital transfo
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=Andharuu&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
+<img width="98%" src="https://streak-stats.demolab.com?user=Andharuu&theme=github-dark-blue&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA"/>
 
 </div>
 
@@ -106,7 +120,7 @@ Building impactful software for education, healthcare, and rural digital transfo
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&theme=github-dark&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff"/>
 
 </div>
 
@@ -114,7 +128,7 @@ Building impactful software for education, healthcare, and rural digital transfo
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Andharuu&style=flat-square&color=000000"/>
+<img src="https://komarev.com/ghpvc/?username=Andharuu&label=Profile+Views&color=111111&style=flat"/>
 
 </div>
 
@@ -122,6 +136,6 @@ Building impactful software for education, healthcare, and rural digital transfo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,100:0d1117"/>
 
 </div>
