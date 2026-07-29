@@ -4,11 +4,11 @@
 
 <br>
 
-<a href="https://github.com/Andharuu?tab=repositories">
-  <img src="https://img.shields.io/github/stars/Andharuu?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
+<a href="https://github.com/Andharuu/Andharuu">
+  <img src="https://img.shields.io/github/stars/Andharuu/Andharuu?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Stars" />
 </a>
-<a href="https://github.com/Andharuu?tab=repositories">
-  <img src="https://img.shields.io/github/forks/Andharuu?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Forks" />
+<a href="https://github.com/Andharuu/Andharuu">
+  <img src="https://img.shields.io/github/forks/Andharuu/Andharuu?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Forks" />
 </a>
 <a href="https://github.com/Andharuu?tab=followers">
   <img src="https://img.shields.io/github/followers/Andharuu?style=for-the-badge&color=000000&logo=github&logoColor=white" alt="Followers" />
@@ -23,7 +23,7 @@
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="130" />
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="130" />
     </td>
     <td width="70%">
       <b>Hey there! I'm Andharu</b><br><br>
