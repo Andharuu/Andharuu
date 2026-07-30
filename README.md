@@ -20,22 +20,32 @@
 
 ### 💡 Know About Me
 
-<img align="left" src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="130" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Hey there! I'm Andharu</b><br>
-&nbsp;&nbsp;&nbsp;&nbsp;I'm a Software Engineering student fueled by caffeine and an unhealthy obsession with clean architecture. By day, I pretend to understand scalable systems. By night, I write Backend and Android code to automate myself out of doing actual work. When I'm not coding, I'm usually building Machine Learning and GIS models, or treating my side projects like a highly stressful Fortune 500 company.
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="130" />
+    </td>
+    <td width="70%">
+      <b>Hey there! I'm Andharu</b><br><br>
+      I'm a Software Engineering student fueled by caffeine and an unhealthy obsession with clean architecture. By day, I pretend to understand scalable systems. By night, I write Backend and Android code to automate myself out of doing actual work. When I'm not coding, I'm usually building Machine Learning and GIS models, or treating my side projects like a highly stressful Fortune 500 company.
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Top Projects (built to create impact)
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="110" />
-
-<b><a href="https://github.com/Andharuu/PANDU">📦 PANDU</a></b> &mdash; Offline-first information system for education, agriculture, emergency response, and rural digital transformation.<br><br>
-<b><a href="https://github.com/Andharuu/DARSI">🏥 DARSI</a></b> &mdash; Digital Assistant platform for Hospital Information Systems.<br><br>
-<b><a href="#">🧠 Machine Learning</a></b> &mdash; Computer Vision, Deep Learning, and Intelligent Decision Support Systems.
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="70%">
+      <b><a href="https://github.com/Andharuu/PANDU">📦 PANDU</a></b> &mdash; Offline-first information system for education, agriculture, emergency response, and rural digital transformation.<br><br>
+      <b><a href="https://github.com/Andharuu/DARSI">🏥 DARSI</a></b> &mdash; Digital Assistant platform for Hospital Information Systems.<br><br>
+      <b><a href="#">🧠 Machine Learning</a></b> &mdash; Computer Vision, Deep Learning, and Intelligent Decision Support Systems.
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="110" />
+    </td>
+  </tr>
+</table>
 
 ### 🔗 Connect
 
