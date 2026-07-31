@@ -1,7 +1,9 @@
-<div align="center">
+<br clear="left"/>
+<br>
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" width="49%" />
-  <img src="assets/banner-icon.svg" alt="Death City Banner" width="20%" />
-</div>
+  <img src="assets/banner-icon.svg" alt="Death City Banner" width="150" />
+  <br clear="left"/>
+<br>
 
 <br><br>
 
