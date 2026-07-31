@@ -22,7 +22,7 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 
 ## 🔪 Featured Projects
 
-<img src="assets/sun.svg" width="150" align="right" alt="Madness Sun"/>
+<img src="assets/sun.svg" width="150" align="right" vspace="25" alt="Madness Sun"/>
 
 | Project | Description |
 | :--- | :--- |
