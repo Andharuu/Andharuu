@@ -23,7 +23,7 @@
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Brain/3D/brain_3d.png" width="130" />
+      <img src="assets/moon.png" width="130" />
     </td>
     <td width="70%">
       <b>Hey there! I'm Andharu</b><br><br>
