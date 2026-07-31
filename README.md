@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner1.png"/>
+<img src="assets/banner-final.png"/>
 
 <br>
 
