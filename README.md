@@ -1,5 +1,6 @@
-<img src="assets/banner-icon.svg" width="150" align="right" alt="Death City Banner"/>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" align="left" />
+<img src="assets/banner-icon.svg" width="130" align="right" alt="Death City Banner"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" />
 
 <br clear="both"/>
 <br><br>
@@ -42,7 +43,7 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=E63946" height="38"/>
 <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=E63946" height="38"/>
 
-<br><br>
+<br>
 
 **Frameworks & Tools**
 <br>
@@ -54,7 +55,7 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E63946" height="38"/>
 <img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=E63946" height="38"/>
 
-<br><br>
+<br>
 
 **Data, ML & GIS**
 <br>
