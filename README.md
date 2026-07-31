@@ -7,19 +7,19 @@
 
 ## 💀 About Me
 
-<img src="assets/moon-blood.svg" width="150" align="left" alt="Blood Moon"/>
+<img src="assets/moon-blood.svg" width="150" align="right" alt="Blood Moon"/>
 
 **Hey there, I'm Andharu 🌙**
 
-Software Engineering student driven by curiosity and a passion for learning.
+Software Engineering student driven by curiosity and a passion for continuous learning.
 
-I'm currently exploring different areas of software engineering to discover what truly excites me, with a growing interest in Game Development, Artificial Intelligence, and Software Architecture.
+Rather than focusing on a single field, I enjoy exploring different areas of software engineering to better understand how great software is designed, built, and evolved. I'm fascinated by the process of turning complex ideas into practical solutions, whether through thoughtful system architecture, clean code, or well-structured engineering practices.
 
-🔻 Currently exploring: Game Development • AI • System Design 
-🔻 Weapon of choice: Kotlin, Python, and a questionable amount of coffee
-🔻 Fun fact: Every new technology starts as "just curious"... until it becomes another side project.
+My curiosity has led me to explore a wide range of technologies, with a growing interest in Game Development, Artificial Intelligence, and Software Architecture. I enjoy learning by building, experimenting with new ideas, and constantly challenging myself to understand not only *how* things work, but *why* they are built that way.
 
-<br clear="left"/>
+I believe every project is more than just writing code—it's an opportunity to improve problem-solving skills, refine engineering decisions, and create software that is reliable, maintainable, and meaningful. I'm still exploring where my journey will lead, but I'm excited to keep learning, building, and discovering what truly inspires me.
+
+<br clear="right"/>
 <br>
 
 ## 🔪 Featured Projects
