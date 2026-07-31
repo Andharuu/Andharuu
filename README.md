@@ -22,11 +22,11 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 
 ## 🔪 Featured Projects
 
-<img src="assets/sun.svg" width="150" align="right" vspace="25" alt="Madness Sun"/>
+<img src="assets/sun.svg" width="130" align="right" alt="Madness Sun"/>
 
 | Project | Description |
 | :--- | :--- |
-| **[📦 PANDU](https://github.com/Andharuu/PANDU)** | Offline-first information system for education, agriculture, emergency response, and rural digital transformation. |
+| **[📦 PANDU](https://github.com/Andharuu/PANDU)** | Offline-first information system for education, agriculture,<br>emergency response, and rural digital transformation. |
 | **[🏥 DARSI](https://github.com/Andharuu/DARSI)** | Digital Assistant platform for Hospital Information Systems. |
 | **[🧠 Machine Learning](#)** | Computer Vision, Deep Learning, and Intelligent Decision Support Systems. |
 
