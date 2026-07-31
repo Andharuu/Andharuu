@@ -11,14 +11,12 @@
 
 **Hey there, I'm Andharu 🌙**
 
-Hey there, I'm Andharu 🌙
-
 Software Engineering student driven by curiosity and a passion for learning.
 
 I'm currently exploring different areas of software engineering to discover what truly excites me, with a growing interest in Game Development, Artificial Intelligence, and Software Architecture.
 
-🔻 Currently exploring: Game Development • AI • System Design <br>
-🔻 Weapon of choice: Kotlin, Python, and a questionable amount of coffee <br>
+🔻 Currently exploring: Game Development • AI • System Design 
+🔻 Weapon of choice: Kotlin, Python, and a questionable amount of coffee
 🔻 Fun fact: Every new technology starts as "just curious"... until it becomes another side project.
 
 <br clear="left"/>
