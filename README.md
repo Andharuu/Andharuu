@@ -1,11 +1,6 @@
 <div align="center">
-
-<img src="assets/banner-final.png" width="100%" alt="Death City Banner"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;Software+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%2B+GIS+Enthusiast" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" width="49%" />
+  <img src="assets/banner-icon.svg" alt="Death City Banner" width="49%" />
 </div>
 
 <br><br>
@@ -18,7 +13,7 @@
 
 Software Engineering student fueled by caffeine and an unhealthy obsession with clean architecture. By day, I pretend to understand scalable systems. By night, I write Backend and Android code to automate myself out of doing actual work — Death City style, no souls harmed in the process.
 
-🔻 **Currently:** collecting kishin souls (a.k.a. closing GitHub issues)
+🔻 **Currently:** collecting kishin souls (a.k.a. closing GitHub issues) 
 🔻 **Weapon of choice:** Kotlin, Python, and a questionable amount of coffee
 🔻 **Fun fact:** my code reviews hit harder than a Death Scythe
 
