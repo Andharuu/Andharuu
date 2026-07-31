@@ -24,8 +24,6 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 
 <img src="assets/sun.svg" width="150" align="right" alt="Madness Sun"/>
 
-## 📋 Current Workspace
-
 | Project | Description |
 | :--- | :--- |
 | **[📦 PANDU](https://github.com/Andharuu/PANDU)** | Offline-first information system for education, agriculture, emergency response, and rural digital transformation. |
