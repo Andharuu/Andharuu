@@ -20,10 +20,10 @@
 
 ### 💡 Know About Me
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="10" style="background-color: transparent;">
   <tr>
     <td width="30%" align="center">
-      <img src="assets/moon-blood.svg" width="130" />
+      <img src="assets/moon-blood.svg" width="200" />
     </td>
     <td width="70%">
       <b>Hey there! I'm Andharu</b><br><br>
@@ -34,7 +34,7 @@
 
 ### 🔗 Top Projects (built to create impact)
 
-<table border="0" cellspacing="0" cellpadding="10">
+<table border="0" cellspacing="0" cellpadding="10" style="background-color: transparent;">
   <tr>
     <td width="70%">
       <b><a href="https://github.com/Andharuu/PANDU">📦 PANDU</a></b> &mdash; Offline-first information system for education, agriculture, emergency response, and rural digital transformation.<br><br>
