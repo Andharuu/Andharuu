@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:0d1117&text=Andharuu!&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Software%20Engineer%20•%20Backend%20•%20Android%20•%20Machine%20Learning&descAlignY=60&descColor=d9d9d9"/>
+<img src="assets/banner.gif"/>
 
 <br>
 
