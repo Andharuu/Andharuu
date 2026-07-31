@@ -1,4 +1,4 @@
-<img src="assets/banner-icon.svg" width="130" align="right" alt="Death City Banner"/>
+<img src="assets/banner-icon.svg" width="130" align="center" alt="Death City Banner"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" />
 
