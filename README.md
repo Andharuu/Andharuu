@@ -24,11 +24,13 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 
 <img src="assets/sun.svg" width="150" align="right" alt="Madness Sun"/>
 
-**[📦 PANDU](https://github.com/Andharuu/PANDU)** — Offline-first information system for education, agriculture, emergency response, and rural digital transformation.
+## 📋 Current Workspace
 
-**[🏥 DARSI](https://github.com/Andharuu/DARSI)** — Digital Assistant platform for Hospital Information Systems.
-
-**[🧠 Machine Learning](#)** — Computer Vision, Deep Learning, and Intelligent Decision Support Systems.
+| Project | Description |
+| :--- | :--- |
+| **[📦 PANDU](https://github.com/Andharuu/PANDU)** | Offline-first information system for education, agriculture, emergency response, and rural digital transformation. |
+| **[🏥 DARSI](https://github.com/Andharuu/DARSI)** | Digital Assistant platform for Hospital Information Systems. |
+| **[🧠 Machine Learning](#)** | Computer Vision, Deep Learning, and Intelligent Decision Support Systems. |
 
 <br clear="right"/>
 <br>
