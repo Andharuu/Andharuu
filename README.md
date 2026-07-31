@@ -1,12 +1,13 @@
 <img src="assets/banner-icon.svg" width="130" align="left" alt="Death City Banner"/>
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" vspace="35" />
 
 <br clear="both"/>
 <br><br>
 
 ## 💀 About Me
 
-<img src="assets/moon-blood.svg" width="150" align="right" alt="Blood Moon"/>
+<img src="assets/moon-blood.svg" width="300" align="right" alt="Blood Moon"/>
 
 **Hey there, I'm Andharu 🌙**
 
@@ -23,7 +24,7 @@ I believe every project is more than just writing code—it's an opportunity to 
 
 ## 🔪 Featured Projects
 
-<img src="assets/sun.svg" width="150" align="left" alt="Madness Sun"/>
+<img src="assets/sun.svg" width="150" align="right" alt="Madness Sun"/>
 
 | Project | Description |
 | :--- | :--- |
@@ -31,7 +32,7 @@ I believe every project is more than just writing code—it's an opportunity to 
 | **[🏥 DARSI](https://github.com/Andharuu/DARSI)** | Digital Assistant platform for Hospital Information Systems. |
 | **[🧠 Machine Learning](#)** | Computer Vision, Deep Learning, and Intelligent Decision Support Systems. |
 
-<br clear="left"/>
+<br clear="right"/>
 <br>
 
 ## ⚔️ Tech Stack
