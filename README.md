@@ -1,7 +1,13 @@
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" width="49%" align="left" />
-  <img src="assets/banner-icon.svg" alt="Death City Banner" width="150" align="right" />
-  <br clear="left"/>
-
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: transparent; border: none;">
+  <tr>
+    <td width="70%" align="left" valign="middle" style="border: none; background-color: transparent;">
+      <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=26&duration=3500&pause=1000&color=E63946&center=false&vCenter=true&width=550&lines=Welcome+to+my+Death+Room;My+name+is+Andharu;Informatics+Engineering+Student;Backend+%26+Android+Developer;Machine+Learning+%26+Game+Enthusiast" alt="Typing SVG" />
+    </td>
+    <td width="30%" align="right" valign="middle" style="border: none; background-color: transparent;">
+      <img src="assets/banner-icon.svg" alt="Death City Banner" width="130" />
+    </td>
+  </tr>
+</table>
 <br><br>
 
 ## 💀 About Me
@@ -68,7 +74,7 @@ Software Engineering student fueled by caffeine and an unhealthy obsession with 
 
 ## 📊 Metrics
 
-<div align="center">
+<div align="left">
   <img src="./github-metrics.svg" alt="Metrics"/>
 </div>
 
