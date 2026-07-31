@@ -20,111 +20,96 @@
 
 </div>
 
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br><br>
 
 ## 💀 Know About Me
 
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="28%" align="center">
-      <img src="assets/moon-blood.svg" width="180" alt="Blood Moon"/>
-    </td>
-    <td width="72%">
-      <b>Hey there, I'm Andharu 🌙</b><br><br>
-      Software Engineering student fueled by caffeine and an unhealthy obsession with clean architecture. By day, I pretend to understand scalable systems. By night, I write Backend and Android code to automate myself out of doing actual work. When I'm not coding, I'm usually building Machine Learning and GIS models, or treating my side projects like a highly stressful Fortune 500 company — Death City style, no souls harmed in the process.
-      <br><br>
-      <b>🔻 Currently:</b> collecting kishin souls (a.k.a. closing GitHub issues)<br>
-      <b>🔻 Weapon of choice:</b> Kotlin, Python, and a questionable amount of coffee<br>
-      <b>🔻 Fun fact:</b> my code reviews hit harder than a Death Scythe
-    </td>
-  </tr>
-</table>
+<img src="assets/moon-blood.svg" width="150" align="left" alt="Blood Moon"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+**Hey there, I'm Andharu 🌙**
+
+Software Engineering student fueled by caffeine and an unhealthy obsession with clean architecture. By day, I pretend to understand scalable systems. By night, I write Backend and Android code to automate myself out of doing actual work. When I'm not coding, I'm usually building Machine Learning and GIS models, or treating my side projects like a highly stressful Fortune 500 company — Death City style, no souls harmed in the process.
+
+🔻 **Currently:** collecting kishin souls (a.k.a. closing GitHub issues)
+🔻 **Weapon of choice:** Kotlin, Python, and a questionable amount of coffee
+🔻 **Fun fact:** my code reviews hit harder than a Death Scythe
+
+<br clear="left"/>
+<br>
 
 ## ⚔️ Tech Stack
 
-<div align="center">
-
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/KOTLIN-000000?style=for-the-badge&logo=kotlin&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=E63946"/>
+<img src="https://img.shields.io/badge/KOTLIN-000000?style=for-the-badge&logo=kotlin&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=E63946" height="38"/>
 
-<br>
+<br><br>
 
 **Backend & Mobile**
 <br>
-<img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/JETPACK_COMPOSE-000000?style=for-the-badge&logo=jetpackcompose&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=E63946"/>
+<img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/DJANGO-000000?style=for-the-badge&logo=django&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/ANDROID-000000?style=for-the-badge&logo=android&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/JETPACK_COMPOSE-000000?style=for-the-badge&logo=jetpackcompose&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=E63946" height="38"/>
 
-<br>
+<br><br>
 
 **Data, ML & GIS**
 <br>
-<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/POSTGIS-000000?style=for-the-badge&logo=postgresql&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=E63946"/>
+<img src="https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/POSTGIS-000000?style=for-the-badge&logo=postgresql&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=E63946" height="38"/>
 
-<br>
+<br><br>
 
 **Tools**
 <br>
-<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=E63946"/>
-<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=E63946"/>
+<img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/FIREBASE-000000?style=for-the-badge&logo=firebase&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=E63946" height="38"/>
+<img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=E63946" height="38"/>
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br><br>
 
 ## 🔪 Top Projects (built to create impact)
 
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="70%">
-      <b><a href="https://github.com/Andharuu/PANDU">📦 PANDU</a></b> &mdash; Offline-first information system for education, agriculture, emergency response, and rural digital transformation.<br><br>
-      <b><a href="https://github.com/Andharuu/DARSI">🏥 DARSI</a></b> &mdash; Digital Assistant platform for Hospital Information Systems.<br><br>
-      <b><a href="#">🧠 Machine Learning</a></b> &mdash; Computer Vision, Deep Learning, and Intelligent Decision Support Systems.
-    </td>
-    <td width="30%" align="center">
-      <img src="assets/sun.svg" width="180" alt="Madness Sun"/>
-    </td>
-  </tr>
-</table>
+<img src="assets/sun.svg" width="150" align="right" alt="Madness Sun"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+**[📦 PANDU](https://github.com/Andharuu/PANDU)** — Offline-first information system for education, agriculture, emergency response, and rural digital transformation.
+
+**[🏥 DARSI](https://github.com/Andharuu/DARSI)** — Digital Assistant platform for Hospital Information Systems.
+
+**[🧠 Machine Learning](#)** — Computer Vision, Deep Learning, and Intelligent Decision Support Systems.
+
+<br clear="right"/>
+<br>
 
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andharuu&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Andharuu&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
 
 ## 📊 Stats & Contribution
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Andharuu&show_icons=true&theme=dark&bg_color=000000&title_color=E63946&icon_color=E63946&text_color=ffffff&border_color=E63946&hide_border=false" alt="GitHub Stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andharuu&theme=github_dark_dimmed" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Andharuu&theme=dark&background=000000&stroke=E63946&ring=E63946&fire=E63946&currStreakLabel=ffffff&border=E63946" alt="Streak Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andharuu&layout=compact&theme=dark&bg_color=000000&title_color=E63946&text_color=ffffff&border_color=E63946&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andharuu&theme=github_dark_dimmed" alt="Top Languages"/>
 </div>
 
 <br>
@@ -133,7 +118,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andharuu&theme=react-dark&hide_border=true&bg_color=000000&color=E63946&line=E63946&point=ffffff&area=true&area_color=E63946" width="100%" alt="Activity Graph"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<br>
 
 ## 🔗 Connect
 
