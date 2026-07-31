@@ -34,7 +34,7 @@
 
 ### 🔗 Top Projects (built to create impact)
 
-<table border="0" cellspacing="0" cellpadding="10" style="background-color: transparent;">
+<table border="0" cellspacing="0" cellpadding="10" style="background-color: black;">
   <tr>
     <td width="70%">
       <b><a href="https://github.com/Andharuu/PANDU">📦 PANDU</a></b> &mdash; Offline-first information system for education, agriculture, emergency response, and rural digital transformation.<br><br>
